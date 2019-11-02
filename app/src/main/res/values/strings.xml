@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cedis To Dollar</string>
+    <string name="enter_amount_in_cedis">Enter amount in cedis</string>
+    <string name="welcome_to_androidtrain_currency_convector">Welcome To Androidtrain Currency Convector</string>
+    <string name="convert">Convert</string>
+    <string name="blakson"></string>
+    <string name="title">Dollar to Cedis Convector in Androidtrain</string>
+</resources>
